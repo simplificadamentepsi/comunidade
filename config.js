@@ -1,0 +1,1 @@
+window.SIMPLIFICADAMENTE={formEndpoint:"",whatsappUrl:"https://chat.whatsapp.com/KVC83zYy5P40X93fui1H5R"};
